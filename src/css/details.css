@@ -1,0 +1,39 @@
+.headerMovie {
+  margin-top: 20px;
+  text-align: center;
+  color: rgb(53, 53, 53);
+}
+
+table {
+  margin: 20px auto 0;
+}
+
+td {
+  width: 30px;
+  height: 30px;
+}
+
+.wrapper {
+  margin-top: 50px;
+}
+
+.note > .btnFree {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(136, 218, 147);
+  border: none;
+}
+
+.btnClicked {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(236, 216, 127);
+  border: none;
+}
+
+.btnPurchased {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(183, 127, 236);
+  border: none;
+}

@@ -1,0 +1,52 @@
+.wrapper {
+  width: 700px;
+  margin: 0 auto;
+}
+
+.loginInfo {
+  width: 400px;
+  border-radius: 5%;
+  margin: 0 auto;
+  margin-top: 50px;
+  text-align: center;
+  color: white;
+  margin-bottom: 30px;
+  padding: 40px;
+  background-color: #343a40;
+}
+
+.loginInfo > h1 {
+  margin-top: 10px;
+}
+
+.loginInfo > img {
+  border-radius: 50%;
+}
+
+.movie {
+  margin-top: 80px;
+}
+
+.movies {
+  margin-bottom: 60px;
+}
+
+.movieHeader {
+  margin-bottom: 20px;
+  text-align: center;
+  min-height: 70%;
+}
+
+.movieHeader > h2 {
+  color: #2e2e2e;
+}
+
+.movieHeader > a {
+  color: #2e2e2e;
+}
+
+.movieHeader > a:hover {
+  text-decoration: none;
+  text-transform: none;
+  color: #5e5e5e;
+}
