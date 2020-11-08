@@ -1,7 +1,12 @@
-Hosting: https://tickstee-app.000webhostapp.com/
-Repozytorium: https://github.com/steedev/tickstee.git
+# TickStee - system rezerwacji biletów
 
-W projekcie zrealizowano:
+### Hosting: https://tickstee-app.000webhostapp.com/
+
+### Repozytorium: https://github.com/steedev/tickstee.git
+
+<br>
+
+## W projekcie zrealizowano:
 
 1. Rejestracja oraz logowanie użytkowników w bazie
 2. Pełny hash haseł
@@ -21,7 +26,10 @@ W projekcie zrealizowano:
 16. Wykorzystanie ajaxa celem przesyłania danych pomiędzy JS a PHP
 17. Podział projektu na komponenty
 
-Domyślne konta, na których są jakieś dane:
+<br>
+
+## Domyślne konta, na których są jakieś dane:
+
 L: Stee
 H: toor
 
@@ -31,4 +39,4 @@ H: qwer
 L: Janek
 H: root
 
-Zachęcam jednak do stworzenia swojego konta, a następnie z niego do testowania aplikacji. Konta domyślne dodane są tylko w celu zobrazowania działania z większą ilością danych.
+Zachęcam jednak do stworzenia swojego konta, a następnie z niego do testowania aplikacji. Konta domyślne dodane są tylko w celu zobrazowania działania z większą ilością danych
