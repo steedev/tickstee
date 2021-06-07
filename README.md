@@ -1,6 +1,6 @@
 # TickStee - system rezerwacji biletów
 
-### Hosting: https://tickstee-app.000webhostapp.com/
+### Hosting: https://tickstee-system-app.000webhostapp.com/
 
 ### Repozytorium: https://github.com/steedev/tickstee.git
 
